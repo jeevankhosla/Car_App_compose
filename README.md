@@ -26,7 +26,5 @@ For more information see blog post(TODO LINK) related to this project.
 [Google Design for Driving](https://developers.google.com/cars/design/create-apps/apps-for-drivers/templates/overview)
 
 [androidx.car.app](https://developer.android.com/jetpack/androidx/releases/car-app)
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
